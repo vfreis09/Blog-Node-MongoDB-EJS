@@ -5,5 +5,5 @@ https://www.youtube.com/watch?v=zb3Qk8SG5Ms&list=PL4cUxeGkcC9jsz4LDYc6kv3ymONOKx
 Im pushing this here to keep track of the things i learn
 (credits to the creator of the video of course)
 
-syntax is update till now (video 7)
+syntax is update
 the series is from 2020 and it uses Node, Express, MongoDB, EJS and some other good stuff
